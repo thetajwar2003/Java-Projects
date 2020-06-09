@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="041afa32-5f4e-4241-8b89-6d2f85893ce1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cXib9f6vZFvRi1HsRx1uHtWqSJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.android" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ATM (1)">
+    <configuration name="ATM (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Machine.ATM" />
+      <module name="ATM Machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Machine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATM" />
+      <module name="ATM Machine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ATM" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Machine.ATM" />
+      <module name="ATM Machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Machine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ATM (1)" />
+        <item itemvalue="Application.ATM" />
+        <item itemvalue="Application.ATM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="041afa32-5f4e-4241-8b89-6d2f85893ce1" name="Default Changelist" comment="" />
+      <created>1590681407443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590681407443</updated>
+      <workItem from="1590681415465" duration="142000" />
+      <workItem from="1590681591453" duration="126000" />
+      <workItem from="1590707168713" duration="7000" />
+      <workItem from="1590713817480" duration="17361000" />
+      <workItem from="1590873904374" duration="764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="83" y="286" key="#SQL_Dialects" timestamp="1590791177885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="83" y="286" key="#SQL_Dialects/0.0.1440.900@0.0.1440.900" timestamp="1590791177885" />
+    <state x="238" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590791107863">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="238" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1590791107863" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1590795870976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590795870976" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom" timestamp="1590874873537">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590874873537" />
+    <state width="1398" height="113" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590796300726" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center" timestamp="1590874873536">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590874873536" />
+    <state width="1398" height="113" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590796300723" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left" timestamp="1590874873535">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590874873535" />
+    <state width="1398" height="113" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590796300723" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right" timestamp="1590874873536">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590874873536" />
+    <state width="1398" height="113" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590796300724" />
+    <state x="308" y="200" key="IDE.errors.dialog" timestamp="1590768825752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="200" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1590768825752" />
+    <state x="221" y="0" key="SettingsEditor" timestamp="1590791772316">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590791772316" />
+  </component>
+</project>
